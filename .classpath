@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/james/Downloads/pdfbox-tools-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/home/james/Downloads/xmpbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/home/james/Downloads/preflight-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/home/james/Downloads/fontbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/home/james/Downloads/pdfbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/home/james/Downloads/preflight-app-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/home/james/Downloads/pdfbox-app-2.0.9.jar"/>
+	<classpathentry kind="lib" path="/home/james/Downloads/mongo-java-driver-3.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/james/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/james/Downloads/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/james/Downloads/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
